@@ -1,0 +1,12 @@
+Contexte du projet
+	Dans le cadre de la gestion d'une compagnie aérienne, il est nécessaire de gérer une quantité de données (Vols, flotte, clients, facturation etc.).
+De plus les délais ont une importance critique pour la gestion des vols. Les cout de ces vols sont inhérents au planning de ces vols ainsi qu'aux type de vols.
+En outre pour leur confort et toujours pour une meilleur gestion du temps l'idéal est de permettre à la clientèle de gérer ses vols à distances.
+	L'utilisation de l'outil informatique semble donc des plus indiquée. C'est dans cette optique que nous lancons le développement d'un outil de gestion pour la compagnie de gestion aérienne de Belfort.
+ Domaine
+	Ce projet s'inscrit dans le cadre de deux UV BD50 - Conception de base de données et GL52 - Génie Logiciel de l'Université de Technologie de Belfort Montbéliard (UTBM).
+Il permettra d'asseoir nos compétence dans cette UV ainsi qu'en gestion d'un projet.
+Comme indiqué prédemment le projet appartient au domaine de l'informatique de gestion plus précisément la gestion de compagnie aérienne.
+extension
+	- Banking
+	- 
