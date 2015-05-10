@@ -1,10 +1,2 @@
-Module User/
-	Entités: User permet de gérer tous les utilisateusrs, les utilisateur spéciaux (admin etc) sont gérés avec le type user un type Enum.
-Module Planning/
-	Entités: Vol -- Heure de départ et arrivée
-					Lié aux aéroport qui ont des villes
-					Vol commercial (Le vol proposé sur le site avec le nombre de place etc.)
-					Vol réel, le vol qui s'est réel avec le vrai horaire etc
-					Les vols sont faits par des avions et des avions sont typés
-					vols commerciaux en n-n avec des jours (like Fischer)
+﻿Service Facturation devient service finance
 					
