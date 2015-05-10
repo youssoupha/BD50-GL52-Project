@@ -5,6 +5,7 @@
 <Workspace>
 	<Local Expanded="Yes" Name="BD50_GL52_Project">
 		<Model Expanded="Yes" ID="{F7BBA10F-A106-4AE4-BFBF-8B4259FF3FD6}" Name="ModeleOrienteObjet" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ModeleOrienteObjet.moo"/>
+		<Model Expanded="Yes" ID="{B38D2774-F1A9-4387-98E0-E5C274FED7EA}" Name="ModeleTraitements" Type="{8B5D3680-2056-4280-8B77-FBE8472CB1A8}" URL="ModeleTraitements.mtm"/>
 	</Local>
 	<BrowserModule Name="Référentiel"/>
 </Workspace>
