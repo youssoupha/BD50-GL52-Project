@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <?PowerDesigner AppLocale="UTF16" ID="{67A5E69E-DD21-40AD-826D-17FD44FA92D0}" Label="" LastModificationDate="1429169052" Name="ModeleOrienteObjet" Objects="43" Symbols="37" Target="Java 1.x" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+=======
+<?PowerDesigner AppLocale="UTF16" ID="{67A5E69E-DD21-40AD-826D-17FD44FA92D0}" Label="" LastModificationDate="1430408146" Name="ModeleOrienteObjet" Objects="34" Symbols="28" Target="Java 1.x" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -12,8 +16,13 @@
 <a:Code>ModeleOrienteObjet</a:Code>
 <a:CreationDate>1428853931</a:CreationDate>
 <a:Creator>The CiD</a:Creator>
+<<<<<<< HEAD
 <a:ModificationDate>1429136938</a:ModificationDate>
 <a:Modifier>ciara_000</a:Modifier>
+=======
+<a:ModificationDate>1430408146</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:PackageOptionsText>[FolderOptions]
 
 [FolderOptions\Class Diagram Objects]
@@ -985,8 +994,13 @@ NameToCode=No</a:ModelOptionsText>
 <a:Code>DiagrammeDeCollaboration</a:Code>
 <a:CreationDate>1428853931</a:CreationDate>
 <a:Creator>The CiD</a:Creator>
+<<<<<<< HEAD
 <a:ModificationDate>1429136938</a:ModificationDate>
 <a:Modifier>ciara_000</a:Modifier>
+=======
+<a:ModificationDate>1430408146</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:DisplayPreferences>[DisplayPreferences]
 
 [DisplayPreferences\CMD]
@@ -1279,9 +1293,15 @@ Shadow=0</a:DisplayPreferences>
 <c:Symbols>
 <o:CollaborationInstanceLinkSymbol Id="o6">
 <a:CreationDate>1428854378</a:CreationDate>
+<<<<<<< HEAD
 <a:ModificationDate>1429136938</a:ModificationDate>
 <a:Rect>((-24600,-153), (6430,5293))</a:Rect>
 <a:ListOfPoints>((-24600,1721),(6430,1721))</a:ListOfPoints>
+=======
+<a:ModificationDate>1430403613</a:ModificationDate>
+<a:Rect>((-31350,2338), (9081,5612))</a:Rect>
+<a:ListOfPoints>((-31350,3473),(9081,3473))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>16744576</a:LineColor>
@@ -1292,6 +1312,7 @@ ROLA 0 Arial,8,N</a:FontList>
 <o:CollaborationMessageSymbol Ref="o7"/>
 <o:CollaborationMessageSymbol Ref="o8"/>
 <o:CollaborationMessageSymbol Ref="o9"/>
+<<<<<<< HEAD
 <o:CollaborationMessageSymbol Ref="o10"/>
 </c:MessageSymbols>
 <c:SourceSymbol>
@@ -1337,12 +1358,35 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:DestinationAnchorOffset>(0, 1500)</a:DestinationAnchorOffset>
 <a:Rect>((-19809,2996), (-7585,4295))</a:Rect>
 <a:ListOfPoints>((-10585,3221),(-7585,3221))</a:ListOfPoints>
+=======
+</c:MessageSymbols>
+<c:SourceSymbol>
+<o:ActorSymbol Ref="o10"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:InstanceLink Ref="o12"/>
+</c:Object>
+</o:CollaborationInstanceLinkSymbol>
+<o:CollaborationMessageSymbol Id="o9">
+<a:CreationDate>1430403613</a:CreationDate>
+<a:ModificationDate>1430408044</a:ModificationDate>
+<a:CenterTextOffset>(4837, -112)</a:CenterTextOffset>
+<a:DistanceFromILink>-660</a:DistanceFromILink>
+<a:PercentOfLinkLength>40</a:PercentOfLinkLength>
+<a:DestinationAnchorOffset>(0, -660)</a:DestinationAnchorOffset>
+<a:Rect>((-16678,2588), (-13678,3038))</a:Rect>
+<a:ListOfPoints>((-16678,2813),(-13678,2813))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
+<<<<<<< HEAD
 <o:ActorSymbol Ref="o11"/>
 </c:SourceSymbol>
 <c:DestinationSymbol>
@@ -1361,12 +1405,33 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:DestinationAnchorOffset>(0, 500)</a:DestinationAnchorOffset>
 <a:Rect>((-16247,1996), (-7585,3295))</a:Rect>
 <a:ListOfPoints>((-10585,2221),(-7585,2221))</a:ListOfPoints>
+=======
+<o:ActorSymbol Ref="o10"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Message Ref="o13"/>
+</c:Object>
+</o:CollaborationMessageSymbol>
+<o:CollaborationMessageSymbol Id="o8">
+<a:CreationDate>1430403356</a:CreationDate>
+<a:ModificationDate>1430408044</a:ModificationDate>
+<a:CenterTextOffset>(5137, -37)</a:CenterTextOffset>
+<a:DistanceFromILink>1515</a:DistanceFromILink>
+<a:PercentOfLinkLength>40</a:PercentOfLinkLength>
+<a:DestinationAnchorOffset>(0, 1515)</a:DestinationAnchorOffset>
+<a:Rect>((-16678,4763), (-13678,5213))</a:Rect>
+<a:ListOfPoints>((-16678,4988),(-13678,4988))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
+<<<<<<< HEAD
 <o:ActorSymbol Ref="o11"/>
 </c:SourceSymbol>
 <c:DestinationSymbol>
@@ -1374,10 +1439,20 @@ ROLA 0 Arial,8,N</a:FontList>
 </c:DestinationSymbol>
 <c:Object>
 <o:Message Ref="o16"/>
+=======
+<o:ActorSymbol Ref="o10"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Message Ref="o14"/>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 </c:Object>
 </o:CollaborationMessageSymbol>
 <o:CollaborationMessageSymbol Id="o7">
 <a:CreationDate>1428854916</a:CreationDate>
+<<<<<<< HEAD
 <a:ModificationDate>1429136977</a:ModificationDate>
 <a:CenterTextOffset>(5587, -109)</a:CenterTextOffset>
 <a:DistanceFromILink>2876</a:DistanceFromILink>
@@ -1385,12 +1460,22 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:DestinationAnchorOffset>(0, 2876)</a:DestinationAnchorOffset>
 <a:Rect>((-20574,4119), (-9137,5293))</a:Rect>
 <a:ListOfPoints>((-12137,4597),(-9137,4597))</a:ListOfPoints>
+=======
+<a:ModificationDate>1430408044</a:ModificationDate>
+<a:CenterTextOffset>(5737, -109)</a:CenterTextOffset>
+<a:DistanceFromILink>540</a:DistanceFromILink>
+<a:PercentOfLinkLength>40</a:PercentOfLinkLength>
+<a:DestinationAnchorOffset>(0, 540)</a:DestinationAnchorOffset>
+<a:Rect>((-16678,3788), (-13678,4238))</a:Rect>
+<a:ListOfPoints>((-16678,4013),(-13678,4013))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
+<<<<<<< HEAD
 <o:ActorSymbol Ref="o11"/>
 </c:SourceSymbol>
 <c:DestinationSymbol>
@@ -1405,6 +1490,22 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:ModificationDate>1429136717</a:ModificationDate>
 <a:Rect>((-24075,-5890), (-1578,-629))</a:Rect>
 <a:ListOfPoints>((-24075,-4037),(-1578,-4037))</a:ListOfPoints>
+=======
+<o:ActorSymbol Ref="o10"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Message Ref="o15"/>
+</c:Object>
+</o:CollaborationMessageSymbol>
+<o:CollaborationInstanceLinkSymbol Id="o16">
+<a:CreationDate>1428854545</a:CreationDate>
+<a:ModificationDate>1430403796</a:ModificationDate>
+<a:Rect>((-30825,-3362), (-842,-538))</a:Rect>
+<a:ListOfPoints>((-30825,-1975),(-19237,-1975),(-19237,-1976),(-842,-1976))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>16744576</a:LineColor>
@@ -1412,6 +1513,7 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:FontList>DISPNAME 0 Arial,8,N
 ROLA 0 Arial,8,N</a:FontList>
 <c:MessageSymbols>
+<<<<<<< HEAD
 <o:CollaborationMessageSymbol Ref="o19"/>
 <o:CollaborationMessageSymbol Ref="o20"/>
 <o:CollaborationMessageSymbol Ref="o21"/>
@@ -1436,12 +1538,37 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:DestinationAnchorOffset>(0, -1303)</a:DestinationAnchorOffset>
 <a:Rect>((-19951,-5890), (-9938,-4716))</a:Rect>
 <a:ListOfPoints>((-16951,-5340),(-19951,-5340))</a:ListOfPoints>
+=======
+<o:CollaborationMessageSymbol Ref="o17"/>
+<o:CollaborationMessageSymbol Ref="o18"/>
+</c:MessageSymbols>
+<c:SourceSymbol>
+<o:ActorSymbol Ref="o19"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:InstanceLink Ref="o20"/>
+</c:Object>
+</o:CollaborationInstanceLinkSymbol>
+<o:CollaborationMessageSymbol Id="o18">
+<a:CreationDate>1430403796</a:CreationDate>
+<a:ModificationDate>1430408044</a:ModificationDate>
+<a:CenterTextOffset>(4200, 38)</a:CenterTextOffset>
+<a:DistanceFromILink>-761</a:DistanceFromILink>
+<a:PercentOfLinkLength>55</a:PercentOfLinkLength>
+<a:DestinationAnchorOffset>(0, -761)</a:DestinationAnchorOffset>
+<a:Rect>((-15835,-2962), (-12835,-2512))</a:Rect>
+<a:ListOfPoints>((-15835,-2737),(-12835,-2737))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
+<<<<<<< HEAD
 <o:UMLObjectStandardSymbol Ref="o12"/>
 </c:SourceSymbol>
 <c:DestinationSymbol>
@@ -1508,12 +1635,33 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:DestinationAnchorOffset>(0, 759)</a:DestinationAnchorOffset>
 <a:Rect>((-19652,-3903), (-8627,-2729))</a:Rect>
 <a:ListOfPoints>((-11627,-3278),(-8627,-3278))</a:ListOfPoints>
+=======
+<o:ActorSymbol Ref="o19"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Message Ref="o21"/>
+</c:Object>
+</o:CollaborationMessageSymbol>
+<o:CollaborationMessageSymbol Id="o17">
+<a:CreationDate>1428854545</a:CreationDate>
+<a:ModificationDate>1430408044</a:ModificationDate>
+<a:CenterTextOffset>(5175, 38)</a:CenterTextOffset>
+<a:DistanceFromILink>889</a:DistanceFromILink>
+<a:PercentOfLinkLength>55</a:PercentOfLinkLength>
+<a:DestinationAnchorOffset>(0, 889)</a:DestinationAnchorOffset>
+<a:Rect>((-15835,-1312), (-12835,-862))</a:Rect>
+<a:ListOfPoints>((-15835,-1087),(-12835,-1087))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
+<<<<<<< HEAD
 <o:ActorSymbol Ref="o23"/>
 </c:SourceSymbol>
 <c:DestinationSymbol>
@@ -1528,6 +1676,22 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:ModificationDate>1428855735</a:ModificationDate>
 <a:Rect>((2475,222), (28350,4246))</a:Rect>
 <a:ListOfPoints>((28350,2700),(2475,2700))</a:ListOfPoints>
+=======
+<o:ActorSymbol Ref="o19"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Message Ref="o22"/>
+</c:Object>
+</o:CollaborationMessageSymbol>
+<o:CollaborationInstanceLinkSymbol Id="o23">
+<a:CreationDate>1428855222</a:CreationDate>
+<a:ModificationDate>1430405117</a:ModificationDate>
+<a:Rect>((3579,1438), (28350,6137))</a:Rect>
+<a:ListOfPoints>((28350,3626),(3579,3626))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>16744576</a:LineColor>
@@ -1535,6 +1699,7 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:FontList>DISPNAME 0 Arial,8,N
 ROLA 0 Arial,8,N</a:FontList>
 <c:MessageSymbols>
+<<<<<<< HEAD
 <o:CollaborationMessageSymbol Ref="o30"/>
 <o:CollaborationMessageSymbol Ref="o31"/>
 <o:CollaborationMessageSymbol Ref="o32"/>
@@ -1558,12 +1723,63 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:DestinationAnchorOffset>(0, -2003)</a:DestinationAnchorOffset>
 <a:Rect>((7185,222), (19447,1396))</a:Rect>
 <a:ListOfPoints>((10185,697),(7185,697))</a:ListOfPoints>
+=======
+<o:CollaborationMessageSymbol Ref="o24"/>
+<o:CollaborationMessageSymbol Ref="o25"/>
+<o:CollaborationMessageSymbol Ref="o26"/>
+<o:CollaborationMessageSymbol Ref="o27"/>
+</c:MessageSymbols>
+<c:SourceSymbol>
+<o:ActorSymbol Ref="o28"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:InstanceLink Ref="o29"/>
+</c:Object>
+</o:CollaborationInstanceLinkSymbol>
+<o:CollaborationMessageSymbol Id="o27">
+<a:CreationDate>1430405117</a:CreationDate>
+<a:ModificationDate>1430408044</a:ModificationDate>
+<a:CenterTextOffset>(-4762, -187)</a:CenterTextOffset>
+<a:DistanceFromILink>1737</a:DistanceFromILink>
+<a:PercentOfLinkLength>68</a:PercentOfLinkLength>
+<a:DestinationAnchorOffset>(0, 1737)</a:DestinationAnchorOffset>
+<a:Rect>((10006,5138), (13006,5588))</a:Rect>
+<a:ListOfPoints>((13006,5363),(10006,5363))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
+<o:ActorSymbol Ref="o28"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Message Ref="o30"/>
+</c:Object>
+</o:CollaborationMessageSymbol>
+<o:CollaborationMessageSymbol Id="o26">
+<a:CreationDate>1428855735</a:CreationDate>
+<a:ModificationDate>1430408044</a:ModificationDate>
+<a:CenterTextOffset>(-5587, -112)</a:CenterTextOffset>
+<a:DistanceFromILink>-1713</a:DistanceFromILink>
+<a:PercentOfLinkLength>68</a:PercentOfLinkLength>
+<a:DestinationAnchorOffset>(0, -1713)</a:DestinationAnchorOffset>
+<a:Rect>((10006,1688), (13006,2138))</a:Rect>
+<a:ListOfPoints>((13006,1913),(10006,1913))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
+<a:CornerStyle>2</a:CornerStyle>
+<a:ArrowStyle>1</a:ArrowStyle>
+<a:LineColor>12615808</a:LineColor>
+<a:ShadowColor>12632256</a:ShadowColor>
+<a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
+<c:SourceSymbol>
+<<<<<<< HEAD
 <o:ActorSymbol Ref="o33"/>
 </c:SourceSymbol>
 <c:DestinationSymbol>
@@ -1582,12 +1798,33 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:DestinationAnchorOffset>(0, -803)</a:DestinationAnchorOffset>
 <a:Rect>((7962,1122), (18461,2296))</a:Rect>
 <a:ListOfPoints>((10962,1897),(7962,1897))</a:ListOfPoints>
+=======
+<o:ActorSymbol Ref="o28"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Message Ref="o31"/>
+</c:Object>
+</o:CollaborationMessageSymbol>
+<o:CollaborationMessageSymbol Id="o25">
+<a:CreationDate>1428855338</a:CreationDate>
+<a:ModificationDate>1430408044</a:ModificationDate>
+<a:CenterTextOffset>(-6412, -37)</a:CenterTextOffset>
+<a:DistanceFromILink>762</a:DistanceFromILink>
+<a:PercentOfLinkLength>68</a:PercentOfLinkLength>
+<a:DestinationAnchorOffset>(0, 762)</a:DestinationAnchorOffset>
+<a:Rect>((10006,4163), (13006,4613))</a:Rect>
+<a:ListOfPoints>((13006,4388),(10006,4388))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
+<<<<<<< HEAD
 <o:ActorSymbol Ref="o33"/>
 </c:SourceSymbol>
 <c:DestinationSymbol>
@@ -1606,12 +1843,33 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:DestinationAnchorOffset>(0, 1072)</a:DestinationAnchorOffset>
 <a:Rect>((8044,3072), (20794,4246))</a:Rect>
 <a:ListOfPoints>((17794,3772),(20794,3772))</a:ListOfPoints>
+=======
+<o:ActorSymbol Ref="o28"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Message Ref="o32"/>
+</c:Object>
+</o:CollaborationMessageSymbol>
+<o:CollaborationMessageSymbol Id="o24">
+<a:CreationDate>1428855222</a:CreationDate>
+<a:ModificationDate>1430408044</a:ModificationDate>
+<a:CenterTextOffset>(-5362, -112)</a:CenterTextOffset>
+<a:DistanceFromILink>-738</a:DistanceFromILink>
+<a:PercentOfLinkLength>68</a:PercentOfLinkLength>
+<a:DestinationAnchorOffset>(0, -738)</a:DestinationAnchorOffset>
+<a:Rect>((10006,2663), (13006,3113))</a:Rect>
+<a:ListOfPoints>((13006,2888),(10006,2888))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
+<<<<<<< HEAD
 <o:UMLObjectStandardSymbol Ref="o12"/>
 </c:SourceSymbol>
 <c:DestinationSymbol>
@@ -1626,6 +1884,22 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:ModificationDate>1429136532</a:ModificationDate>
 <a:Rect>((4668,-7851), (28593,-891))</a:Rect>
 <a:ListOfPoints>((28593,-3188),(4668,-3188))</a:ListOfPoints>
+=======
+<o:ActorSymbol Ref="o28"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Message Ref="o33"/>
+</c:Object>
+</o:CollaborationMessageSymbol>
+<o:CollaborationInstanceLinkSymbol Id="o34">
+<a:CreationDate>1428856078</a:CreationDate>
+<a:ModificationDate>1430407739</a:ModificationDate>
+<a:Rect>((4002,-15212), (28968,-1171))</a:Rect>
+<a:ListOfPoints>((28968,-12817),(4002,-12817),(4002,-1171))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>16744576</a:LineColor>
@@ -1633,6 +1907,7 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:FontList>DISPNAME 0 Arial,8,N
 ROLA 0 Arial,8,N</a:FontList>
 <c:MessageSymbols>
+<<<<<<< HEAD
 <o:CollaborationMessageSymbol Ref="o39"/>
 <o:CollaborationMessageSymbol Ref="o40"/>
 <o:CollaborationMessageSymbol Ref="o41"/>
@@ -1660,12 +1935,39 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:DestinationAnchorOffset>(0, 585)</a:DestinationAnchorOffset>
 <a:Rect>((10638,-2928), (20763,-1754))</a:Rect>
 <a:ListOfPoints>((17763,-2603),(20763,-2603))</a:ListOfPoints>
+=======
+<o:CollaborationMessageSymbol Ref="o35"/>
+<o:CollaborationMessageSymbol Ref="o36"/>
+<o:CollaborationMessageSymbol Ref="o37"/>
+<o:CollaborationMessageSymbol Ref="o38"/>
+</c:MessageSymbols>
+<c:SourceSymbol>
+<o:ActorSymbol Ref="o39"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:InstanceLink Ref="o40"/>
+</c:Object>
+</o:CollaborationInstanceLinkSymbol>
+<o:CollaborationMessageSymbol Id="o38">
+<a:CreationDate>1430405948</a:CreationDate>
+<a:ModificationDate>1430408044</a:ModificationDate>
+<a:CenterTextOffset>(-6187, -37)</a:CenterTextOffset>
+<a:DistanceFromILink>930</a:DistanceFromILink>
+<a:PercentOfLinkLength>45</a:PercentOfLinkLength>
+<a:DestinationAnchorOffset>(0, 930)</a:DestinationAnchorOffset>
+<a:Rect>((10993,-12112), (13993,-11662))</a:Rect>
+<a:ListOfPoints>((13993,-11887),(10993,-11887))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
+<<<<<<< HEAD
 <o:UMLObjectStandardSymbol Ref="o12"/>
 </c:SourceSymbol>
 <c:DestinationSymbol>
@@ -1756,12 +2058,33 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:DestinationAnchorOffset>(0, -2351)</a:DestinationAnchorOffset>
 <a:Rect>((6757,-6164), (14519,-4990))</a:Rect>
 <a:ListOfPoints>((9757,-5539),(6757,-5539))</a:ListOfPoints>
+=======
+<o:ActorSymbol Ref="o39"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Message Ref="o41"/>
+</c:Object>
+</o:CollaborationMessageSymbol>
+<o:CollaborationMessageSymbol Id="o37">
+<a:CreationDate>1430404632</a:CreationDate>
+<a:ModificationDate>1430408044</a:ModificationDate>
+<a:CenterTextOffset>(-6075, -112)</a:CenterTextOffset>
+<a:DistanceFromILink>-720</a:DistanceFromILink>
+<a:PercentOfLinkLength>43</a:PercentOfLinkLength>
+<a:DestinationAnchorOffset>(0, -720)</a:DestinationAnchorOffset>
+<a:Rect>((11725,-13762), (14725,-13312))</a:Rect>
+<a:ListOfPoints>((14725,-13537),(11725,-13537))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
+<<<<<<< HEAD
 <o:ActorSymbol Ref="o46"/>
 </c:SourceSymbol>
 <c:DestinationSymbol>
@@ -1780,12 +2103,33 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:DestinationAnchorOffset>(0, -1601)</a:DestinationAnchorOffset>
 <a:Rect>((6757,-5414), (19319,-4240))</a:Rect>
 <a:ListOfPoints>((9757,-4789),(6757,-4789))</a:ListOfPoints>
+=======
+<o:ActorSymbol Ref="o39"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Message Ref="o42"/>
+</c:Object>
+</o:CollaborationMessageSymbol>
+<o:CollaborationMessageSymbol Id="o36">
+<a:CreationDate>1428856200</a:CreationDate>
+<a:ModificationDate>1430408044</a:ModificationDate>
+<a:CenterTextOffset>(-4537, 38)</a:CenterTextOffset>
+<a:DistanceFromILink>-1770</a:DistanceFromILink>
+<a:PercentOfLinkLength>43</a:PercentOfLinkLength>
+<a:DestinationAnchorOffset>(0, -1770)</a:DestinationAnchorOffset>
+<a:Rect>((11725,-14812), (14725,-14362))</a:Rect>
+<a:ListOfPoints>((14725,-14587),(11725,-14587))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
+<<<<<<< HEAD
 <o:ActorSymbol Ref="o46"/>
 </c:SourceSymbol>
 <c:DestinationSymbol>
@@ -1804,12 +2148,33 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:DestinationAnchorOffset>(0, -551)</a:DestinationAnchorOffset>
 <a:Rect>((6757,-4439), (18419,-3265))</a:Rect>
 <a:ListOfPoints>((9757,-3739),(6757,-3739))</a:ListOfPoints>
+=======
+<o:ActorSymbol Ref="o39"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Message Ref="o43"/>
+</c:Object>
+</o:CollaborationMessageSymbol>
+<o:CollaborationMessageSymbol Id="o35">
+<a:CreationDate>1428856078</a:CreationDate>
+<a:ModificationDate>1430408044</a:ModificationDate>
+<a:CenterTextOffset>(-4612, -187)</a:CenterTextOffset>
+<a:DistanceFromILink>2055</a:DistanceFromILink>
+<a:PercentOfLinkLength>45</a:PercentOfLinkLength>
+<a:DestinationAnchorOffset>(0, 2055)</a:DestinationAnchorOffset>
+<a:Rect>((10993,-10987), (13993,-10537))</a:Rect>
+<a:ListOfPoints>((13993,-10762),(10993,-10762))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
+<<<<<<< HEAD
 <o:ActorSymbol Ref="o46"/>
 </c:SourceSymbol>
 <c:DestinationSymbol>
@@ -1824,6 +2189,22 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:ModificationDate>1429135497</a:ModificationDate>
 <a:Rect>((-13838,-19344), (10273,-898))</a:Rect>
 <a:ListOfPoints>((-994,-19344),(-994,-898))</a:ListOfPoints>
+=======
+<o:ActorSymbol Ref="o39"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Message Ref="o44"/>
+</c:Object>
+</o:CollaborationMessageSymbol>
+<o:CollaborationInstanceLinkSymbol Id="o45">
+<a:CreationDate>1430406144</a:CreationDate>
+<a:ModificationDate>1430408094</a:ModificationDate>
+<a:Rect>((3750,-2260), (28500,531))</a:Rect>
+<a:ListOfPoints>((28500,-1087),(3750,-1087))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>16744576</a:LineColor>
@@ -1831,6 +2212,7 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:FontList>DISPNAME 0 Arial,8,N
 ROLA 0 Arial,8,N</a:FontList>
 <c:MessageSymbols>
+<<<<<<< HEAD
 <o:CollaborationMessageSymbol Ref="o56"/>
 <o:CollaborationMessageSymbol Ref="o57"/>
 <o:CollaborationMessageSymbol Ref="o58"/>
@@ -1907,12 +2289,37 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:DestinationAnchorOffset>(2193, 0)</a:DestinationAnchorOffset>
 <a:Rect>((974,-13651), (8849,-9802))</a:Rect>
 <a:ListOfPoints>((1199,-10651),(1199,-13651))</a:ListOfPoints>
+=======
+<o:CollaborationMessageSymbol Ref="o46"/>
+<o:CollaborationMessageSymbol Ref="o47"/>
+</c:MessageSymbols>
+<c:SourceSymbol>
+<o:ActorSymbol Ref="o48"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:InstanceLink Ref="o49"/>
+</c:Object>
+</o:CollaborationInstanceLinkSymbol>
+<o:CollaborationMessageSymbol Id="o47">
+<a:CreationDate>1430406656</a:CreationDate>
+<a:ModificationDate>1430408057</a:ModificationDate>
+<a:CenterTextOffset>(-6243, -281)</a:CenterTextOffset>
+<a:DistanceFromILink>750</a:DistanceFromILink>
+<a:PercentOfLinkLength>68</a:PercentOfLinkLength>
+<a:DestinationAnchorOffset>(0, 750)</a:DestinationAnchorOffset>
+<a:Rect>((10170,-562), (13170,-112))</a:Rect>
+<a:ListOfPoints>((13170,-337),(10170,-337))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
+<<<<<<< HEAD
 <o:UMLObjectStandardSymbol Ref="o12"/>
 </c:SourceSymbol>
 <c:DestinationSymbol>
@@ -2027,12 +2434,33 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:DestinationAnchorOffset>(-5007, 0)</a:DestinationAnchorOffset>
 <a:Rect>((-13838,-10146), (-5288,-7146))</a:Rect>
 <a:ListOfPoints>((-6001,-10146),(-6001,-7146))</a:ListOfPoints>
+=======
+<o:ActorSymbol Ref="o48"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Message Ref="o50"/>
+</c:Object>
+</o:CollaborationMessageSymbol>
+<o:CollaborationMessageSymbol Id="o46">
+<a:CreationDate>1430406144</a:CreationDate>
+<a:ModificationDate>1430408044</a:ModificationDate>
+<a:CenterTextOffset>(-6450, -112)</a:CenterTextOffset>
+<a:DistanceFromILink>-698</a:DistanceFromILink>
+<a:PercentOfLinkLength>68</a:PercentOfLinkLength>
+<a:DestinationAnchorOffset>(0, -698)</a:DestinationAnchorOffset>
+<a:Rect>((10170,-2010), (13170,-1560))</a:Rect>
+<a:ListOfPoints>((13170,-1785),(10170,-1785))</a:ListOfPoints>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
+<<<<<<< HEAD
 <o:ActorSymbol Ref="o64"/>
 </c:SourceSymbol>
 <c:DestinationSymbol>
@@ -2047,6 +2475,42 @@ ROLA 0 Arial,8,N</a:FontList>
 <a:ModificationDate>1429135179</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
 <a:Rect>((-27000,975), (-22201,4574))</a:Rect>
+=======
+<o:ActorSymbol Ref="o48"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:UMLObjectStandardSymbol Ref="o11"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:Message Ref="o51"/>
+</c:Object>
+</o:CollaborationMessageSymbol>
+<o:ExtendedDependencySymbol Id="o52">
+<a:CreationDate>1430408146</a:CreationDate>
+<a:ModificationDate>1430408146</a:ModificationDate>
+<a:Rect>((27768,-11190), (28374,-2174))</a:Rect>
+<a:ListOfPoints>((28099,-11190),(28042,-2174))</a:ListOfPoints>
+<a:CornerStyle>2</a:CornerStyle>
+<a:ArrowStyle>8</a:ArrowStyle>
+<a:LineColor>16744576</a:LineColor>
+<a:ShadowColor>12632256</a:ShadowColor>
+<a:FontList>OBJXSTR 0 Arial,8,N</a:FontList>
+<c:SourceSymbol>
+<o:ActorSymbol Ref="o39"/>
+</c:SourceSymbol>
+<c:DestinationSymbol>
+<o:ActorSymbol Ref="o48"/>
+</c:DestinationSymbol>
+<c:Object>
+<o:ExtendedDependency Ref="o53"/>
+</c:Object>
+</o:ExtendedDependencySymbol>
+<o:ActorSymbol Id="o10">
+<a:CreationDate>1428853945</a:CreationDate>
+<a:ModificationDate>1430403501</a:ModificationDate>
+<a:IconMode>-1</a:IconMode>
+<a:Rect>((-33450,2775), (-28651,6374))</a:Rect>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:LineColor>16744448</a:LineColor>
 <a:LineWidth>1</a:LineWidth>
 <a:FillColor>12648447</a:FillColor>
@@ -2059,14 +2523,21 @@ DISPNAME 0 Arial,8,N</a:FontList>
 <a:KeepAspect>1</a:KeepAspect>
 <a:KeepCenter>1</a:KeepCenter>
 <c:Object>
+<<<<<<< HEAD
 <o:Actor Ref="o74"/>
 </c:Object>
 </o:ActorSymbol>
 <o:ActorSymbol Id="o33">
+=======
+<o:Actor Ref="o54"/>
+</c:Object>
+</o:ActorSymbol>
+<o:ActorSymbol Id="o28">
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CreationDate>1428853965</a:CreationDate>
-<a:ModificationDate>1428855276</a:ModificationDate>
+<a:ModificationDate>1430404136</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((25050,1425), (29849,5024))</a:Rect>
+<a:Rect>((25050,2025), (29849,5624))</a:Rect>
 <a:LineColor>16744448</a:LineColor>
 <a:LineWidth>1</a:LineWidth>
 <a:FillColor>12648447</a:FillColor>
@@ -2079,6 +2550,7 @@ DISPNAME 0 Arial,8,N</a:FontList>
 <a:KeepAspect>1</a:KeepAspect>
 <a:KeepCenter>1</a:KeepCenter>
 <c:Object>
+<<<<<<< HEAD
 <o:Actor Ref="o75"/>
 </c:Object>
 </o:ActorSymbol>
@@ -2087,6 +2559,16 @@ DISPNAME 0 Arial,8,N</a:FontList>
 <a:ModificationDate>1428856021</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
 <a:Rect>((25950,-5775), (30749,-2176))</a:Rect>
+=======
+<o:Actor Ref="o55"/>
+</c:Object>
+</o:ActorSymbol>
+<o:ActorSymbol Id="o39">
+<a:CreationDate>1428853966</a:CreationDate>
+<a:ModificationDate>1430406280</a:ModificationDate>
+<a:IconMode>-1</a:IconMode>
+<a:Rect>((25725,-14325), (30524,-10726))</a:Rect>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:LineColor>16744448</a:LineColor>
 <a:LineWidth>1</a:LineWidth>
 <a:FillColor>12648447</a:FillColor>
@@ -2099,6 +2581,7 @@ DISPNAME 0 Arial,8,N</a:FontList>
 <a:KeepAspect>1</a:KeepAspect>
 <a:KeepCenter>1</a:KeepCenter>
 <c:Object>
+<<<<<<< HEAD
 <o:Actor Ref="o76"/>
 </c:Object>
 </o:ActorSymbol>
@@ -2107,6 +2590,16 @@ DISPNAME 0 Arial,8,N</a:FontList>
 <a:ModificationDate>1429136717</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
 <a:Rect>((-26625,-5550), (-21826,-1951))</a:Rect>
+=======
+<o:Actor Ref="o56"/>
+</c:Object>
+</o:ActorSymbol>
+<o:ActorSymbol Id="o19">
+<a:CreationDate>1428853967</a:CreationDate>
+<a:ModificationDate>1430403710</a:ModificationDate>
+<a:IconMode>-1</a:IconMode>
+<a:Rect>((-33300,-3075), (-28501,524))</a:Rect>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:LineColor>16744448</a:LineColor>
 <a:LineWidth>1</a:LineWidth>
 <a:FillColor>12648447</a:FillColor>
@@ -2119,13 +2612,20 @@ DISPNAME 0 Arial,8,N</a:FontList>
 <a:KeepAspect>1</a:KeepAspect>
 <a:KeepCenter>1</a:KeepCenter>
 <c:Object>
+<<<<<<< HEAD
 <o:Actor Ref="o77"/>
 </c:Object>
 </o:ActorSymbol>
 <o:UMLObjectStandardSymbol Id="o12">
+=======
+<o:Actor Ref="o57"/>
+</c:Object>
+</o:ActorSymbol>
+<o:UMLObjectStandardSymbol Id="o11">
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:CreationDate>1428854361</a:CreationDate>
-<a:ModificationDate>1428854683</a:ModificationDate>
-<a:Rect>((-9001,-7421), (6672,5625))</a:Rect>
+<a:ModificationDate>1430403303</a:ModificationDate>
+<a:Rect>((-9974,-3412), (9150,5626))</a:Rect>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
 <a:LineColor>16744448</a:LineColor>
 <a:FillColor>16775660</a:FillColor>
@@ -2139,6 +2639,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:GradientEndColor>16777215</a:GradientEndColor>
 <a:ManuallyResized>1</a:ManuallyResized>
 <c:Object>
+<<<<<<< HEAD
 <o:UMLObject Ref="o78"/>
 </c:Object>
 </o:UMLObjectStandardSymbol>
@@ -2147,6 +2648,16 @@ LABL 0 Arial,8,N</a:FontList>
 <a:ModificationDate>1429135346</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
 <a:Rect>((-3226,-21144), (1573,-17545))</a:Rect>
+=======
+<o:UMLObject Ref="o58"/>
+</c:Object>
+</o:UMLObjectStandardSymbol>
+<o:ActorSymbol Id="o48">
+<a:CreationDate>1430406123</a:CreationDate>
+<a:ModificationDate>1430406442</a:ModificationDate>
+<a:IconMode>-1</a:IconMode>
+<a:Rect>((25725,-3712), (30524,-113))</a:Rect>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:LineColor>16744448</a:LineColor>
 <a:LineWidth>1</a:LineWidth>
 <a:FillColor>12648447</a:FillColor>
@@ -2159,14 +2670,22 @@ DISPNAME 0 Arial,8,N</a:FontList>
 <a:KeepAspect>1</a:KeepAspect>
 <a:KeepCenter>1</a:KeepCenter>
 <c:Object>
+<<<<<<< HEAD
 <o:Actor Ref="o79"/>
+=======
+<o:Actor Ref="o59"/>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 </c:Object>
 </o:ActorSymbol>
 </c:Symbols>
 </o:CommunicationDiagram>
 </c:CommunicationDiagrams>
 <c:Actors>
+<<<<<<< HEAD
 <o:Actor Id="o74">
+=======
+<o:Actor Id="o54">
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:ObjectID>50DB48C9-6917-4E5F-BD60-DD570E8F6481</a:ObjectID>
 <a:Name>Service Facturation</a:Name>
 <a:Code>Service_Facturation</a:Code>
@@ -2175,7 +2694,11 @@ DISPNAME 0 Arial,8,N</a:FontList>
 <a:ModificationDate>1429136970</a:ModificationDate>
 <a:Modifier>ciara_000</a:Modifier>
 </o:Actor>
+<<<<<<< HEAD
 <o:Actor Id="o75">
+=======
+<o:Actor Id="o55">
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:ObjectID>B493BD30-6F6B-42B5-B2EC-DAA42277D775</a:ObjectID>
 <a:Name>Service Planning</a:Name>
 <a:Code>Service_Planning</a:Code>
@@ -2184,16 +2707,27 @@ DISPNAME 0 Arial,8,N</a:FontList>
 <a:ModificationDate>1429137098</a:ModificationDate>
 <a:Modifier>ciara_000</a:Modifier>
 </o:Actor>
+<<<<<<< HEAD
 <o:Actor Id="o76">
+=======
+<o:Actor Id="o56">
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:ObjectID>D90710D5-337F-43E3-B50F-57EBC0117D94</a:ObjectID>
-<a:Name>Passager</a:Name>
-<a:Code>Passager</a:Code>
+<a:Name>Client</a:Name>
+<a:Code>Client</a:Code>
 <a:CreationDate>1428853966</a:CreationDate>
 <a:Creator>The CiD</a:Creator>
+<<<<<<< HEAD
 <a:ModificationDate>1429136532</a:ModificationDate>
 <a:Modifier>ciara_000</a:Modifier>
 </o:Actor>
 <o:Actor Id="o77">
+=======
+<a:ModificationDate>1430404462</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+</o:Actor>
+<o:Actor Id="o57">
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:ObjectID>7E4A2507-91E7-4488-9466-91C79879FB43</a:ObjectID>
 <a:Name>Administrateur</a:Name>
 <a:Code>Administrateur</a:Code>
@@ -2211,14 +2745,28 @@ DISPNAME 0 Arial,8,N</a:FontList>
 <a:ModificationDate>1429169017</a:ModificationDate>
 <a:Modifier>ciara_000</a:Modifier>
 </o:Actor>
+<o:Actor Id="o59">
+<a:ObjectID>BACE98BE-FFD7-415C-8E44-4AEDF0C53D32</a:ObjectID>
+<a:Name>Visiteur</a:Name>
+<a:Code>Visiteur</a:Code>
+<a:CreationDate>1430406123</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430406133</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+</o:Actor>
 </c:Actors>
 <c:Model.Objects>
+<<<<<<< HEAD
 <o:UMLObject Id="o78">
+=======
+<o:UMLObject Id="o58">
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:ObjectID>EEDC79A0-27E7-4BF1-BC48-F9982D4969F9</a:ObjectID>
-<a:Name>Système</a:Name>
-<a:Code>Systeme</a:Code>
+<a:Name>Système de Gestion d&#39;une Compagnie Aérienne</a:Name>
+<a:Code>Systeme_de_Gestion_d_une_Compagnie_Aerienne</a:Code>
 <a:CreationDate>1428854361</a:CreationDate>
 <a:Creator>The CiD</a:Creator>
+<<<<<<< HEAD
 <a:ModificationDate>1429137098</a:ModificationDate>
 <a:Modifier>ciara_000</a:Modifier>
 </o:UMLObject>
@@ -2612,10 +3160,241 @@ DISPNAME 0 Arial,8,N</a:FontList>
 </c:Object1>
 <c:Object2>
 <o:UMLObject Ref="o78"/>
+=======
+<a:ModificationDate>1430403278</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+</o:UMLObject>
+</c:Model.Objects>
+<c:Messages>
+<o:Message Id="o22">
+<a:ObjectID>A0351F31-6A60-40C1-BB1D-762CEF7D6740</a:ObjectID>
+<a:Name>Administration des utilisateurs</a:Name>
+<a:Code>Administration_des_utilisateurs</a:Code>
+<a:CreationDate>1428854545</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1428855648</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o57"/>
+</c:Object2>
+</o:Message>
+<o:Message Id="o15">
+<a:ObjectID>21FE64EA-9BFB-4B07-8112-BCF204265FCE</a:ObjectID>
+<a:Name>Administration des réservation</a:Name>
+<a:Code>AdministrationDesPrix</a:Code>
+<a:CreationDate>1428854916</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430403434</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o54"/>
+</c:Object2>
+</o:Message>
+<o:Message Id="o33">
+<a:ObjectID>67DCF361-9B2A-422F-8C16-064CEEF401E5</a:ObjectID>
+<a:Name>Gestion des Avions</a:Name>
+<a:Code>Gestion_des_Avions</a:Code>
+<a:CreationDate>1428855222</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430404046</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o55"/>
+</c:Object2>
+</o:Message>
+<o:Message Id="o32">
+<a:ObjectID>7693EF3D-3A7B-44CA-8130-C449CBAB938E</a:ObjectID>
+<a:Name>Plannification des vols</a:Name>
+<a:Code>Plannification_des_vols</a:Code>
+<a:CreationDate>1428855338</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430404216</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o55"/>
+</c:Object2>
+</o:Message>
+<o:Message Id="o31">
+<a:ObjectID>AAF60D1D-A488-4985-8FA3-69A39C1B2601</a:ObjectID>
+<a:Name>Gestion des périodes</a:Name>
+<a:Code>AdministrationDesAeroports</a:Code>
+<a:CreationDate>1428855735</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430404116</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o55"/>
+</c:Object2>
+</o:Message>
+<o:Message Id="o44">
+<a:ObjectID>5F76995D-43B7-4E6E-A1BF-256164D36B6D</a:ObjectID>
+<a:Name>S&#39;authentifier</a:Name>
+<a:Code>EffectuerReservation</a:Code>
+<a:CreationDate>1428856078</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430405070</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o56"/>
+</c:Object2>
+</o:Message>
+<o:Message Id="o43">
+<a:ObjectID>7F31CCAE-A5A6-4288-A88F-AA14375A0899</a:ObjectID>
+<a:Name>Payer facture</a:Name>
+<a:Code>Payer_facture</a:Code>
+<a:CreationDate>1428856200</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1428856289</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o56"/>
+</c:Object2>
+</o:Message>
+<o:Message Id="o14">
+<a:ObjectID>E3C933A8-6F43-4669-999B-E1E2C1F00F72</a:ObjectID>
+<a:Name>S&#39;authentifier</a:Name>
+<a:Code>S_authentifier</a:Code>
+<a:CreationDate>1430403356</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430403401</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o54"/>
+</c:Object2>
+</o:Message>
+<o:Message Id="o13">
+<a:ObjectID>FE708352-E38C-4F7B-866C-E559610FEB1C</a:ObjectID>
+<a:Name>Fixer les prix</a:Name>
+<a:Code>Fixer_les_prix</a:Code>
+<a:CreationDate>1430403613</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430403638</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o54"/>
+</c:Object2>
+</o:Message>
+<o:Message Id="o21">
+<a:ObjectID>F893F2AC-A4CE-49AE-879E-DF44B2BCBD34</a:ObjectID>
+<a:Name>S&#39;authentifier</a:Name>
+<a:Code>S_authentifier</a:Code>
+<a:CreationDate>1430403796</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430403811</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o57"/>
+</c:Object2>
+</o:Message>
+<o:Message Id="o42">
+<a:ObjectID>C639531F-48D1-452D-8AF5-219B569CCF74</a:ObjectID>
+<a:Name>Gestion de réservation</a:Name>
+<a:Code>Gestion_de_reservation</a:Code>
+<a:CreationDate>1430404632</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430405061</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o56"/>
+</c:Object2>
+</o:Message>
+<o:Message Id="o30">
+<a:ObjectID>C9707DBD-34A2-48CD-A286-C0AF4BE4D3BF</a:ObjectID>
+<a:Name>S&#39;authentifier</a:Name>
+<a:Code>S_authentifier</a:Code>
+<a:CreationDate>1430405117</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430405428</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o55"/>
+</c:Object2>
+</o:Message>
+<o:Message Id="o41">
+<a:ObjectID>C1A6B1E4-8B3C-425D-B9A1-E1DBEF82D241</a:ObjectID>
+<a:Name>Gestion de son compte</a:Name>
+<a:Code>Gestion_de_son_compte</a:Code>
+<a:CreationDate>1430405948</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430405998</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o56"/>
+</c:Object2>
+</o:Message>
+<o:Message Id="o51">
+<a:ObjectID>CC07A05B-5F07-4BC4-AA90-D0CEB3294352</a:ObjectID>
+<a:Name>Consulter le catalogue de vols</a:Name>
+<a:Code>Consulter_le_catalogue_de_vols</a:Code>
+<a:CreationDate>1430406144</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430406535</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o59"/>
+</c:Object2>
+</o:Message>
+<o:Message Id="o50">
+<a:ObjectID>4247F033-C043-4A28-89E5-AC7FBF0D32D5</a:ObjectID>
+<a:Name>Effectuer une réservation</a:Name>
+<a:Code>Effectuer_une_reservation</a:Code>
+<a:CreationDate>1430406656</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430407195</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o59"/>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 </c:Object2>
 </o:Message>
 </c:Messages>
 <c:InstanceLinks>
+<<<<<<< HEAD
 <o:InstanceLink Id="o13">
 <a:ObjectID>F5D885BA-5AB0-4DBE-AC16-20AE3F3F0CBA</a:ObjectID>
 <a:CreationDate>1428854378</a:CreationDate>
@@ -2719,17 +3498,131 @@ DISPNAME 0 Arial,8,N</a:FontList>
 <o:Message Ref="o68"/>
 <o:Message Ref="o67"/>
 <o:Message Ref="o66"/>
+=======
+<o:InstanceLink Id="o12">
+<a:ObjectID>F5D885BA-5AB0-4DBE-AC16-20AE3F3F0CBA</a:ObjectID>
+<a:CreationDate>1428854378</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430403613</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<a:DiagramType>268435456</a:DiagramType>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o54"/>
+</c:Object2>
+<c:InstanceLink.Messages>
+<o:Message Ref="o15"/>
+<o:Message Ref="o14"/>
+<o:Message Ref="o13"/>
+</c:InstanceLink.Messages>
+</o:InstanceLink>
+<o:InstanceLink Id="o20">
+<a:ObjectID>F027646C-0A70-46FE-8A53-833FC901F4F7</a:ObjectID>
+<a:CreationDate>1428854545</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430403796</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<a:DiagramType>268435456</a:DiagramType>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o57"/>
+</c:Object2>
+<c:InstanceLink.Messages>
+<o:Message Ref="o22"/>
+<o:Message Ref="o21"/>
+</c:InstanceLink.Messages>
+</o:InstanceLink>
+<o:InstanceLink Id="o29">
+<a:ObjectID>0829709D-1687-4750-AECD-2C962C64426D</a:ObjectID>
+<a:CreationDate>1428855222</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430405117</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<a:DiagramType>268435456</a:DiagramType>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o55"/>
+</c:Object2>
+<c:InstanceLink.Messages>
+<o:Message Ref="o33"/>
+<o:Message Ref="o32"/>
+<o:Message Ref="o31"/>
+<o:Message Ref="o30"/>
+</c:InstanceLink.Messages>
+</o:InstanceLink>
+<o:InstanceLink Id="o40">
+<a:ObjectID>EE2C5120-EEAD-427D-A980-B40F4E3A6A74</a:ObjectID>
+<a:CreationDate>1428856078</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430405948</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<a:DiagramType>268435456</a:DiagramType>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o56"/>
+</c:Object2>
+<c:InstanceLink.Messages>
+<o:Message Ref="o44"/>
+<o:Message Ref="o43"/>
+<o:Message Ref="o42"/>
+<o:Message Ref="o41"/>
+</c:InstanceLink.Messages>
+</o:InstanceLink>
+<o:InstanceLink Id="o49">
+<a:ObjectID>AFC7CCC5-B40E-47BF-89AF-E43BC505B6E1</a:ObjectID>
+<a:CreationDate>1430406144</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430408094</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<a:DiagramType>268435456</a:DiagramType>
+<c:Object1>
+<o:UMLObject Ref="o58"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o59"/>
+</c:Object2>
+<c:InstanceLink.Messages>
+<o:Message Ref="o51"/>
+<o:Message Ref="o50"/>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 </c:InstanceLink.Messages>
 </o:InstanceLink>
 </c:InstanceLinks>
+<c:ChildExtendedDependencies>
+<o:ExtendedDependency Id="o53">
+<a:ObjectID>DA1A0868-48A0-4531-B0D2-FF48E67E1046</a:ObjectID>
+<a:CreationDate>1430408146</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1430408146</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<c:Object1>
+<o:Actor Ref="o59"/>
+</c:Object1>
+<c:Object2>
+<o:Actor Ref="o56"/>
+</c:Object2>
+</o:ExtendedDependency>
+</c:ChildExtendedDependencies>
 <c:TargetModels>
+<<<<<<< HEAD
 <o:TargetModel Id="o80">
+=======
+<o:TargetModel Id="o60">
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:ObjectID>7D3E83B1-01C1-4AB0-8532-AE87E0F29C48</a:ObjectID>
 <a:Name>Java 1.x</a:Name>
 <a:Code>Java</a:Code>
 <a:CreationDate>1428853931</a:CreationDate>
 <a:Creator>The CiD</a:Creator>
-<a:ModificationDate>1428853931</a:ModificationDate>
+<a:ModificationDate>1430403188</a:ModificationDate>
 <a:Modifier>The CiD</a:Modifier>
 <a:TargetModelURL>file:///%_OBJLANG%/java.xol</a:TargetModelURL>
 <a:TargetModelID>D824A738-E160-11D2-B693-0008C7EA924D</a:TargetModelID>
@@ -2738,14 +3631,23 @@ DISPNAME 0 Arial,8,N</a:FontList>
 <o:Shortcut Ref="o3"/>
 </c:SessionShortcuts>
 </o:TargetModel>
+<<<<<<< HEAD
 <o:TargetModel Id="o81">
+=======
+<o:TargetModel Id="o61">
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:ObjectID>308BB443-BF12-4CD3-B871-C0DFF5954A52</a:ObjectID>
 <a:Name>WSDL for Java</a:Name>
 <a:Code>WSDLJava</a:Code>
 <a:CreationDate>1428853931</a:CreationDate>
 <a:Creator>The CiD</a:Creator>
+<<<<<<< HEAD
 <a:ModificationDate>1429125593</a:ModificationDate>
 <a:Modifier>ciara_000</a:Modifier>
+=======
+<a:ModificationDate>1430403188</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:TargetModelURL>file:///%_XEM%/WSDLJ2EE.xem</a:TargetModelURL>
 <a:TargetModelID>C8F5F7B2-CF9D-4E98-8301-959BB6E86C8A</a:TargetModelID>
 <a:TargetModelClassID>186C8AC3-D3DC-11D3-881C-00508B03C75C</a:TargetModelClassID>

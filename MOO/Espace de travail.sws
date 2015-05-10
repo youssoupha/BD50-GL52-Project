@@ -3,8 +3,8 @@
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Workspace>
-	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{95236BA6-C40A-4318-8E70-DF1307004445}" Name="BD50_GL52_Project" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="/Codes/Modèle/BD50_GL52_Project/BD50_GL52_Project.prj"/>
+	<Local Expanded="Yes" Name="BD50 GL52">
+		<Model Expanded="Yes" ID="{95236BA6-C40A-4318-8E70-DF1307004445}" Name="BD50_GL52_Project" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="BD50_GL52_Project.prj"/>
 	</Local>
 	<BrowserModule Name="Référentiel"/>
 </Workspace>

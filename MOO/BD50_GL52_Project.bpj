@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <?PowerDesigner AppLocale="UTF16" ID="{95236BA6-C40A-4318-8E70-DF1307004445}" Label="" LastModificationDate="1429169005" Name="BD50_GL52_Project" Objects="3" Symbols="0" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" signature="PRJ_MODEL_XML" version="15.1.0.2850"?>
+=======
+<?PowerDesigner AppLocale="UTF16" ID="{95236BA6-C40A-4318-8E70-DF1307004445}" Label="" LastModificationDate="1428855427" Name="BD50_GL52_Project" Objects="4" Symbols="0" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" signature="PRJ_MODEL_XML" version="15.1.0.2850"?>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -180,6 +184,7 @@ Script=.convert_code(%Code%,&quot; &quot;)
 ConvTable=
 ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion</a:ModelOptionsText>
 <a:Project.Template>1</a:Project.Template>
+<<<<<<< HEAD
 <c:ProjectDiagrams>
 <o:ProjectDiagram Id="o3">
 <a:ObjectID>87FDA2DC-D493-4DE3-9B0C-E40E9CAD3C3F</a:ObjectID>
@@ -465,13 +470,22 @@ Shadow=0</a:DisplayPreferences>
 </c:DefaultDiagram>
 <c:ModelsAndFiles>
 <o:ModelDocument Id="o4">
+=======
+<c:ModelsAndFiles>
+<o:ModelDocument Id="o3">
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:ObjectID>9ED56ECC-8A17-4E45-BB71-556385AC020A</a:ObjectID>
 <a:Name>ModeleOrienteObjet</a:Name>
 <a:Code>ModeleOrienteObjet</a:Code>
 <a:CreationDate>1428853920</a:CreationDate>
 <a:Creator>The CiD</a:Creator>
+<<<<<<< HEAD
 <a:ModificationDate>1429169005</a:ModificationDate>
 <a:Modifier>ciara_000</a:Modifier>
+=======
+<a:ModificationDate>1428855427</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+>>>>>>> d83a455fd25958cc60d9ced1ed0b00c6f00ec4c4
 <a:Location>file:///%[PRJ_ROOT_DIR]%/ModeleOrienteObjet.moo</a:Location>
 <a:Extension>moo</a:Extension>
 <a:ModelDocument.ModelID>67A5E69E-DD21-40AD-826D-17FD44FA92D0</a:ModelDocument.ModelID>
