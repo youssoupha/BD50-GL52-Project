@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{67A5E69E-DD21-40AD-826D-17FD44FA92D0}" Label="" LastModificationDate="1430408146" Name="ModeleOrienteObjet" Objects="34" Symbols="28" Target="Java 1.x" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{67A5E69E-DD21-40AD-826D-17FD44FA92D0}" Label="" LastModificationDate="1430409264" Name="ModeleOrienteObjet" Objects="34" Symbols="28" Target="Java 1.x" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -1378,7 +1378,7 @@ ROLA 0 Arial,8,N</a:FontList>
 <o:CollaborationInstanceLinkSymbol Id="o16">
 <a:CreationDate>1428854545</a:CreationDate>
 <a:ModificationDate>1430403796</a:ModificationDate>
-<a:Rect>((-30825,-3362), (-842,-538))</a:Rect>
+<a:Rect>((-30825,-3362), (-842,-713))</a:Rect>
 <a:ListOfPoints>((-30825,-1975),(-19237,-1975),(-19237,-1976),(-842,-1976))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
@@ -1426,13 +1426,13 @@ ROLA 0 Arial,8,N</a:FontList>
 </o:CollaborationMessageSymbol>
 <o:CollaborationMessageSymbol Id="o17">
 <a:CreationDate>1428854545</a:CreationDate>
-<a:ModificationDate>1430408044</a:ModificationDate>
+<a:ModificationDate>1430408876</a:ModificationDate>
 <a:CenterTextOffset>(5175, 38)</a:CenterTextOffset>
-<a:DistanceFromILink>889</a:DistanceFromILink>
+<a:DistanceFromILink>714</a:DistanceFromILink>
 <a:PercentOfLinkLength>55</a:PercentOfLinkLength>
-<a:DestinationAnchorOffset>(0, 889)</a:DestinationAnchorOffset>
-<a:Rect>((-15835,-1312), (-12835,-862))</a:Rect>
-<a:ListOfPoints>((-15835,-1087),(-12835,-1087))</a:ListOfPoints>
+<a:DestinationAnchorOffset>(0, 714)</a:DestinationAnchorOffset>
+<a:Rect>((-15835,-1487), (-12835,-1037))</a:Rect>
+<a:ListOfPoints>((-15835,-1262),(-12835,-1262))</a:ListOfPoints>
 <a:CornerStyle>2</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
@@ -1913,11 +1913,11 @@ DISPNAME 0 Arial,8,N</a:FontList>
 <c:Actors>
 <o:Actor Id="o54">
 <a:ObjectID>50DB48C9-6917-4E5F-BD60-DD570E8F6481</a:ObjectID>
-<a:Name>Service Facturation</a:Name>
-<a:Code>Service_Facturation</a:Code>
+<a:Name>Service Finance</a:Name>
+<a:Code>Service_Finance</a:Code>
 <a:CreationDate>1428853945</a:CreationDate>
 <a:Creator>The CiD</a:Creator>
-<a:ModificationDate>1428853982</a:ModificationDate>
+<a:ModificationDate>1430409264</a:ModificationDate>
 <a:Modifier>The CiD</a:Modifier>
 </o:Actor>
 <o:Actor Id="o55">
@@ -2151,11 +2151,11 @@ DISPNAME 0 Arial,8,N</a:FontList>
 </o:Message>
 <o:Message Id="o41">
 <a:ObjectID>C1A6B1E4-8B3C-425D-B9A1-E1DBEF82D241</a:ObjectID>
-<a:Name>Gestion de son compte</a:Name>
-<a:Code>Gestion_de_son_compte</a:Code>
+<a:Name>Modification de son compte</a:Name>
+<a:Code>Modification_de_son_compte</a:Code>
 <a:CreationDate>1430405948</a:CreationDate>
 <a:Creator>The CiD</a:Creator>
-<a:ModificationDate>1430405998</a:ModificationDate>
+<a:ModificationDate>1430408801</a:ModificationDate>
 <a:Modifier>The CiD</a:Modifier>
 <c:Object1>
 <o:UMLObject Ref="o58"/>
