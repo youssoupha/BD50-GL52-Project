@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{F7BBA10F-A106-4AE4-BFBF-8B4259FF3FD6}" Label="" LastModificationDate="1431277076" Name="ModeleOrienteObjet" Objects="102" Symbols="90" Target="Java 1.x" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{F7BBA10F-A106-4AE4-BFBF-8B4259FF3FD6}" Label="" LastModificationDate="1431277379" Name="ModeleOrienteObjet" Objects="103" Symbols="90" Target="Java 1.x" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -12,7 +12,7 @@
 <a:Code>ModeleOrienteObjet</a:Code>
 <a:CreationDate>1431264804</a:CreationDate>
 <a:Creator>The CiD</a:Creator>
-<a:ModificationDate>1431273608</a:ModificationDate>
+<a:ModificationDate>1431277379</a:ModificationDate>
 <a:Modifier>The CiD</a:Modifier>
 <a:PackageOptionsText>[FolderOptions]
 
@@ -4470,6 +4470,306 @@ LABL 0 Arial,8,N</a:FontList>
 <c:DefaultDiagram>
 <o:UMLPackageDiagram Ref="o169"/>
 </c:DefaultDiagram>
+<c:CommunicationDiagrams>
+<o:CommunicationDiagram Id="o170">
+<a:ObjectID>68219135-ACA3-41F9-A985-F7C59197C39D</a:ObjectID>
+<a:Name>DiagrammeCommunication</a:Name>
+<a:Code>DiagrammeCommunication</a:Code>
+<a:CreationDate>1431277376</a:CreationDate>
+<a:Creator>The CiD</a:Creator>
+<a:ModificationDate>1431277379</a:ModificationDate>
+<a:Modifier>The CiD</a:Modifier>
+<a:DisplayPreferences>[DisplayPreferences]
+
+[DisplayPreferences\CMD]
+
+[DisplayPreferences\General]
+Adjust to text=Yes
+Snap Grid=No
+Constrain Labels=Yes
+Display Grid=No
+Show Page Delimiter=Yes
+Grid size=0
+Graphic unit=2
+Window color=255, 255, 255
+Background image=
+Background mode=8
+Watermark image=
+Watermark mode=8
+Show watermark on screen=No
+Gradient mode=0
+Gradient end color=255, 255, 255
+Show Swimlane=No
+SwimlaneVert=Yes
+TreeVert=No
+CompDark=0
+
+[DisplayPreferences\Object]
+Mode=0
+Trunc Length=80
+Word Length=80
+Word Text=!&quot;&quot;#$%&amp;&#39;()*+,-./:;&lt;=&gt;?@[\]^_`{|}~
+Shortcut IntIcon=Yes
+Shortcut IntLoct=Yes
+Shortcut IntFullPath=No
+Shortcut IntLastPackage=Yes
+Shortcut ExtIcon=Yes
+Shortcut ExtLoct=No
+Shortcut ExtFullPath=No
+Shortcut ExtLastPackage=Yes
+Shortcut ExtIncludeModl=Yes
+EObjShowStrn=Yes
+ExtendedObject.Comment=No
+ExtendedObject.IconPicture=No
+ExtendedObject_SymbolLayout=
+ELnkShowStrn=Yes
+ELnkShowName=Yes
+ExtendedLink_SymbolLayout=
+FileObject.Stereotype=No
+FileObject.DisplayName=Yes
+FileObject.LocationOrName=No
+FileObject.IconPicture=No
+FileObject.IconMode=Yes
+FileObject_SymbolLayout=
+PckgShowStrn=Yes
+Package.Comment=No
+Package.IconPicture=No
+Package_SymbolLayout=
+Display Model Version=Yes
+UMLObject.IconPicture=No
+UMLObject_SymbolLayout=
+Actor.IconPicture=No
+Actor_SymbolLayout=
+ActrShowStrn=Yes
+ObjtShowStrn=Yes
+UMLObject.Comment=No
+ObjtShowAttv=No
+ILnkShowName=No
+ILnkShowStrn=Yes
+ILnkShowRole=Yes
+MssgShowName=Yes
+MssgShowMthd=Yes
+MssgShowCond=Yes
+MssgShowSign=Yes
+
+[DisplayPreferences\Symbol]
+
+[DisplayPreferences\Symbol\FRMEOBJ]
+STRNFont=Arial,8,N
+STRNFont color=0, 0, 0
+DISPNAMEFont=Arial,8,N
+DISPNAMEFont color=0, 0, 0
+LABLFont=Arial,8,N
+LABLFont color=0, 0, 0
+AutoAdjustToText=Yes
+Keep aspect=No
+Keep center=No
+Keep size=No
+Width=6000
+Height=2000
+Brush color=255 255 255
+Fill Color=Yes
+Brush style=6
+Brush bitmap mode=12
+Brush gradient mode=64
+Brush gradient color=192 192 192
+Brush background image=
+Custom shape=
+Custom text mode=0
+Pen=1 0 255 128 128
+Shadow color=192 192 192
+Shadow=0
+
+[DisplayPreferences\Symbol\FRMELNK]
+CENTERFont=Arial,8,N
+CENTERFont color=0, 0, 0
+Line style=2
+AutoAdjustToText=Yes
+Keep aspect=No
+Keep center=No
+Keep size=No
+Brush color=255 255 255
+Fill Color=Yes
+Brush style=1
+Brush bitmap mode=12
+Brush gradient mode=0
+Brush gradient color=118 118 118
+Brush background image=
+Custom shape=
+Custom text mode=0
+Pen=1 0 128 128 255
+Shadow color=192 192 192
+Shadow=0
+
+[DisplayPreferences\Symbol\FILO]
+OBJSTRNFont=Arial,8,N
+OBJSTRNFont color=0, 0, 0
+DISPNAMEFont=Arial,8,N
+DISPNAMEFont color=0, 0, 0
+LCNMFont=Arial,8,N
+LCNMFont color=0, 0, 0
+AutoAdjustToText=Yes
+Keep aspect=Yes
+Keep center=Yes
+Keep size=No
+Width=2400
+Height=2400
+Brush color=255 255 255
+Fill Color=No
+Brush style=1
+Brush bitmap mode=12
+Brush gradient mode=0
+Brush gradient color=118 118 118
+Brush background image=
+Custom shape=
+Custom text mode=0
+Pen=1 0 0 0 255
+Shadow color=192 192 192
+Shadow=0
+
+[DisplayPreferences\Symbol\CLDPCKG]
+STRNFont=Arial,8,N
+STRNFont color=0, 0, 0
+DISPNAMEFont=Arial,8,N
+DISPNAMEFont color=0, 0, 0
+LABLFont=Arial,8,N
+LABLFont color=0, 0, 0
+AutoAdjustToText=Yes
+Keep aspect=No
+Keep center=No
+Keep size=No
+Width=4800
+Height=3600
+Brush color=255 255 192
+Fill Color=Yes
+Brush style=6
+Brush bitmap mode=12
+Brush gradient mode=65
+Brush gradient color=255 255 255
+Brush background image=
+Custom shape=
+Custom text mode=0
+Pen=1 0 178 178 178
+Shadow color=192 192 192
+Shadow=0
+
+[DisplayPreferences\Symbol\SQDOBJT]
+OBJSTRNFont=Arial,8,N
+OBJSTRNFont color=0, 0, 0
+DISPNAMEFont=Arial,8,U
+DISPNAMEFont color=0, 0, 0
+AttributeValuesFont=Arial,8,N
+AttributeValuesFont color=0, 0, 0
+LABLFont=Arial,8,N
+LABLFont color=0, 0, 0
+AutoAdjustToText=Yes
+Keep aspect=No
+Keep center=No
+Keep size=No
+Width=4800
+Height=3600
+Brush color=236 249 255
+Fill Color=Yes
+Brush style=6
+Brush bitmap mode=12
+Brush gradient mode=65
+Brush gradient color=255 255 255
+Brush background image=
+Custom shape=
+Custom text mode=0
+Pen=1 0 0 128 255
+Shadow color=192 192 192
+Shadow=0
+
+[DisplayPreferences\Symbol\UCDACTR]
+STRNFont=Arial,8,N
+STRNFont color=0, 0, 0
+DISPNAMEFont=Arial,8,N
+DISPNAMEFont color=0, 0, 0
+AutoAdjustToText=Yes
+Keep aspect=Yes
+Keep center=Yes
+Keep size=No
+Width=4800
+Height=3600
+Brush color=255 255 192
+Fill Color=Yes
+Brush style=6
+Brush bitmap mode=12
+Brush gradient mode=65
+Brush gradient color=255 255 255
+Brush background image=
+Custom shape=
+Custom text mode=0
+Pen=1 150 0 128 255
+Shadow color=192 192 192
+Shadow=0
+
+[DisplayPreferences\Symbol\OOMILNK]
+DISPNAMEFont=Arial,8,N
+DISPNAMEFont color=0, 0, 0
+ROLAFont=Arial,8,N
+ROLAFont color=0, 0, 0
+Line style=2
+Pen=1 0 128 128 255
+Shadow color=192 192 192
+Shadow=0
+
+[DisplayPreferences\Symbol\SQDMSSG]
+DISPNAMEFont=Arial,8,N
+DISPNAMEFont color=0, 0, 0
+Line style=2
+Pen=1 0 128 128 192
+Shadow color=192 192 192
+Shadow=0
+
+[DisplayPreferences\Symbol\USRDEPD]
+OBJXSTRFont=Arial,8,N
+OBJXSTRFont color=0, 0, 0
+Line style=2
+AutoAdjustToText=Yes
+Keep aspect=No
+Keep center=No
+Keep size=No
+Brush color=255 255 255
+Fill Color=Yes
+Brush style=1
+Brush bitmap mode=12
+Brush gradient mode=0
+Brush gradient color=118 118 118
+Brush background image=
+Custom shape=
+Custom text mode=0
+Pen=2 0 128 128 255
+Shadow color=192 192 192
+Shadow=0
+
+[DisplayPreferences\Symbol\Free Symbol]
+Free TextFont=Arial,8,N
+Free TextFont color=0, 0, 0
+Line style=2
+AutoAdjustToText=Yes
+Keep aspect=No
+Keep center=No
+Keep size=No
+Brush color=255 255 255
+Fill Color=Yes
+Brush style=1
+Brush bitmap mode=12
+Brush gradient mode=0
+Brush gradient color=118 118 118
+Brush background image=
+Custom shape=
+Custom text mode=0
+Pen=1 0 0 0 255
+Shadow color=192 192 192
+Shadow=0</a:DisplayPreferences>
+<a:PaperSize>(8268, 11693)</a:PaperSize>
+<a:PageMargins>((315,354), (433,354))</a:PageMargins>
+<a:PageOrientation>1</a:PageOrientation>
+<a:PaperSource>15</a:PaperSource>
+</o:CommunicationDiagram>
+</c:CommunicationDiagrams>
 <c:PackageDiagrams>
 <o:UMLPackageDiagram Id="o169">
 <a:ObjectID>CAE1559A-2DD4-4825-9BB2-F7CA93E55EBE</a:ObjectID>
@@ -4706,7 +5006,7 @@ Shadow=0</a:DisplayPreferences>
 <a:PageOrientation>1</a:PageOrientation>
 <a:PaperSource>15</a:PaperSource>
 <c:Symbols>
-<o:DependencySymbol Id="o170">
+<o:DependencySymbol Id="o171">
 <a:CreationDate>1431273567</a:CreationDate>
 <a:ModificationDate>1431273569</a:ModificationDate>
 <a:Rect>((-17850,8100), (-1200,8700))</a:Rect>
@@ -4718,16 +5018,16 @@ Shadow=0</a:DisplayPreferences>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
-<o:PackageSymbol Ref="o171"/>
+<o:PackageSymbol Ref="o172"/>
 </c:SourceSymbol>
 <c:DestinationSymbol>
-<o:PackageSymbol Ref="o172"/>
+<o:PackageSymbol Ref="o173"/>
 </c:DestinationSymbol>
 <c:Object>
-<o:Dependency Ref="o173"/>
+<o:Dependency Ref="o174"/>
 </c:Object>
 </o:DependencySymbol>
-<o:DependencySymbol Id="o174">
+<o:DependencySymbol Id="o175">
 <a:CreationDate>1431273582</a:CreationDate>
 <a:ModificationDate>1431273582</a:ModificationDate>
 <a:Rect>((-21000,413), (3975,8363))</a:Rect>
@@ -4739,16 +5039,16 @@ Shadow=0</a:DisplayPreferences>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>DISPNAME 0 Arial,8,N</a:FontList>
 <c:SourceSymbol>
-<o:PackageSymbol Ref="o172"/>
+<o:PackageSymbol Ref="o173"/>
 </c:SourceSymbol>
 <c:DestinationSymbol>
-<o:PackageSymbol Ref="o175"/>
+<o:PackageSymbol Ref="o176"/>
 </c:DestinationSymbol>
 <c:Object>
-<o:Dependency Ref="o176"/>
+<o:Dependency Ref="o177"/>
 </c:Object>
 </o:DependencySymbol>
-<o:PackageSymbol Id="o172">
+<o:PackageSymbol Id="o173">
 <a:CreationDate>1431273517</a:CreationDate>
 <a:ModificationDate>1431273548</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
@@ -4766,7 +5066,7 @@ LABL 0 Arial,8,N</a:FontList>
 <o:Package Ref="o5"/>
 </c:Object>
 </o:PackageSymbol>
-<o:PackageSymbol Id="o171">
+<o:PackageSymbol Id="o172">
 <a:CreationDate>1431273519</a:CreationDate>
 <a:ModificationDate>1431273569</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
@@ -4784,7 +5084,7 @@ LABL 0 Arial,8,N</a:FontList>
 <o:Package Ref="o57"/>
 </c:Object>
 </o:PackageSymbol>
-<o:PackageSymbol Id="o175">
+<o:PackageSymbol Id="o176">
 <a:CreationDate>1431273519</a:CreationDate>
 <a:ModificationDate>1431273570</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
@@ -4806,7 +5106,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:UMLPackageDiagram>
 </c:PackageDiagrams>
 <c:Dependencies>
-<o:Dependency Id="o173">
+<o:Dependency Id="o174">
 <a:ObjectID>ABE6FEAF-5301-417B-8FA6-27F08DA96A7C</a:ObjectID>
 <a:Name>Dependance_12</a:Name>
 <a:Code>Dependance_12</a:Code>
@@ -4821,7 +5121,7 @@ LABL 0 Arial,8,N</a:FontList>
 <o:Package Ref="o57"/>
 </c:Object2>
 </o:Dependency>
-<o:Dependency Id="o176">
+<o:Dependency Id="o177">
 <a:ObjectID>0AAA90EE-9B68-4597-A4D8-EA06C60ADFD1</a:ObjectID>
 <a:Name>Dependance_13</a:Name>
 <a:Code>Dependance_13</a:Code>
@@ -4838,7 +5138,7 @@ LABL 0 Arial,8,N</a:FontList>
 </o:Dependency>
 </c:Dependencies>
 <c:TargetModels>
-<o:TargetModel Id="o177">
+<o:TargetModel Id="o178">
 <a:ObjectID>23B83FC4-5982-48E3-9929-56DD01846B8D</a:ObjectID>
 <a:Name>Java 1.x</a:Name>
 <a:Code>Java</a:Code>
@@ -4853,7 +5153,7 @@ LABL 0 Arial,8,N</a:FontList>
 <o:Shortcut Ref="o3"/>
 </c:SessionShortcuts>
 </o:TargetModel>
-<o:TargetModel Id="o178">
+<o:TargetModel Id="o179">
 <a:ObjectID>A6EEAC8B-7CEA-4373-B2BA-32B1DA7D743E</a:ObjectID>
 <a:Name>WSDL for Java</a:Name>
 <a:Code>WSDLJava</a:Code>
