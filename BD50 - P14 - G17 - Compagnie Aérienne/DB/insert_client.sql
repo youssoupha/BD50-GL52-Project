@@ -1,0 +1,30 @@
+-- INSERT CLIENT
+
+create or replace 
+procedure ins_client(vnumclient VARCHAR2,
+	vnomclient VARCHAR2,
+	vprenomclient VARCHAR2,
+  	vpassclient VARCHAR2,
+	vnumrueclient number,
+	vnomrueclient VARCHAR,
+	vcodepostclient number,
+	vvilleclient VARCHAR2,
+	vteleclient number,
+	vemailclient VARCHAR2) is
+begin
+INSERT INTO CLIENT (NUME_PASS_CLI, NOM_CLI, PREN_CLI, PASSWORD_CLI, NUM_RUE_PASS, NOM_RUE_PASS,CODE_POST_PASS, VILL_PASS, TELE_CLI, EMAI_CLI) VALUES(vnumclient,vnomclient,vprenomclient,vpassclient,vnumrueclient,vnomrueclient, vcodepostclient, vvilleclient, vteleclient, vemailclient);
+COMMIT;
+end ins_client;
+/
+
+
+
+-- NUME_PASS_CLI                             NOT NULL CHAR(6)
+-- NOM_CLI                                   NOT NULL VARCHAR2(50)
+-- PREN_CLI                                  NOT NULL VARCHAR2(50)
+-- NUM_RUE_PASS                                       NUMBER(4)
+-- NOM_RUE_PASS                                       VARCHAR2(100)
+-- CODE_POST_PASS                                     NUMBER(5)
+-- VILL_PASS                                          VARCHAR2(50)
+-- TELE_CLI                                  NOT NULL NUMBER(10)
+-- EMAI_CLI                                  NOT NULL VARCHAR2(100)

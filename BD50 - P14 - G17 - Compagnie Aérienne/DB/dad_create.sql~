@@ -1,0 +1,6 @@
+BEGIN
+DBMS_EPG.create_dad(
+dad_name => 'flight',
+path => '/flight/*');
+END;
+/

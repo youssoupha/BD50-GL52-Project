@@ -1,0 +1,32 @@
+connect system/manager
+
+create tablespace FLIGHT_DATA
+datafile'C:\DB\FLIGHT_DATA.dbf'
+SIZE 5M REUSE
+EXTENT MANAGEMENT LOCAL SEGMENT
+SPACE MANAGEMENT AUTO;
+
+create temporary tablespace FLIGHT_TEMP
+tempfile 'E:\ORACLE\oradata\prod\FLIGHT_TEMP.dbf'
+size 5M
+EXTENT MANAGEMENT LOCAL;
+
+Create user G17_FLIGHT 
+Identified by G17_FLIGHT 
+default tablespace FLIGHT_DATA
+temporary tablespace FLIGHT_TEMP;
+
+Create user G17_FLIGHT 
+Identified by G17_FLIGHT 
+default tablespace FLIGHT_DATA
+temporary tablespace FLIGHT_TEMP;
+
+Grant connect, resource, plustrace
+, create view, create synonym, create user, alter user
+, xdbadmin
+to G17_FLIGHT with admin option;
+
+grant connect, resource to G17_FLIGHT;
+
+connect G17_FLIGHT/G17_FLIGHT
+

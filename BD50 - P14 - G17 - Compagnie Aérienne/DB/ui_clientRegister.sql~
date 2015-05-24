@@ -1,0 +1,23 @@
+create or replace procedure ui_clientRegister  is
+begin
+htp.htmlOpen;
+	htp.bodyOpen;
+	htp.br;
+	htp.print('<blink> Entrez les valeurs dans les champs</blink>');
+	htp.br;
+	htp.formOpen(owa_util.get_owa_service_path || 'ins_course', 'GET');
+		htp.print('Numero course :');
+		htp.formText('vnumcourse',3);htp.br;
+		htp.print('Nom course :');
+		htp.formText('vnomcourse',25);htp.br;
+		htp.print('Ville course :');
+		htp.formText('vvillecourse',25);htp.br;
+		htp.print('Date course :');
+		htp.formText('vdatecourse',25);htp.br;
+		htp.formSubmit(NULL,'Insertion');
+	htp.formClose;
+	htp.bodyClose;
+htp.htmlClose;
+end ui_clientRegister;
+/
+
