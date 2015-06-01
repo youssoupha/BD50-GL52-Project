@@ -4,7 +4,7 @@
 
 <Workspace>
 	<Local Expanded="Yes" Name="BD50_GL52_Project">
-		<Model Expanded="Yes" ID="{20664DAE-930D-46D3-A982-37B3EE33D421}" Loaded="No" Name="BD50_GL52_Project" Selected="Yes" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="BD50_GL52_Project/BD50_GL52_Project.prj"/>
+		<Model Expanded="Yes" ID="{20664DAE-930D-46D3-A982-37B3EE33D421}" Name="BD50_GL52_Project" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="BD50_GL52_Project/BD50_GL52_Project.prj"/>
 	</Local>
 	<BrowserModule Name="Référentiel"/>
 </Workspace>
