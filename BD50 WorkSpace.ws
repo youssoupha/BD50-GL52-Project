@@ -17,3 +17,7 @@
 @i 2 @t 104 @f "MLR - OPTIMISÉ.MLR" @n "Gestion users"
 @i 2 @t 104 @f "MLR - OPTIMISÉ.MLR" @n "Gestion planning"
 @i 2 @t 104 @f "MLR - OPTIMISÉ.MLR" @n "Gestion reservation et facturation"
+@i 1 @t 103 @f "MLO1.MLO" @n "MLO1" @o
+@i 2 @t 104 @f "MLO1.MLO" @n "Gestion users"
+@i 2 @t 104 @f "MLO1.MLO" @n "Gestion planning"
+@i 2 @t 104 @f "MLO1.MLO" @n "Gestion reservation et facturation"
